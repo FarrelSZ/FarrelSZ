@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+#Halo Semua!
+Perkenalkan nama saya **Farrel Syach Zahran**.\
+Saya Seorang **Mahasiswa** di [Universitas Mercu Buana](https://www.mercubuana.ac.id/)\
+Saya juga memiliki Gelar [Bangkit Machine Learning Developer]
+
+Jika kamu tertarik untuk berkenalan dengan ku, silahkan ikuti akun [Linkedin](www.linkedin.com/in/farrelsz) ku ya.
+
+
 <!--
 **FarrelSZ/FarrelSZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
