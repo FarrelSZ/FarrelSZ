@@ -6,7 +6,7 @@ Perkenalkan nama saya **Farrel Syach Zahran**.\
 Saya lulusan baru di [Universitas Mercu Buana](https://www.mercubuana.ac.id/)\
 Saya juga memiliki Gelar [Bangkit Machine Learning Developer]
 
-Jika kamu tertarik untuk berkenalan dengan ku, silahkan ikuti akun [Linkedin](www.linkedin.com/in/farrelsz) ku ya.
+Jika kamu tertarik untuk berkenalan dengan ku, silahkan ikuti akun [Linkedin](https://www.linkedin.com/in/farrelsz) ku ya.
 
 
 <!--
